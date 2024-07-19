@@ -6,7 +6,7 @@
 - 🌱 Estudante de programação.
 
 - 🖥️ Todos meus projetos estão aqui. 
-<p>
+<p><br/>
 
 ### ⭐️ Se conecte comigo:
 
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/aline-alves-dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alinesors" /></a>
 <a href="https://github.com/AlineAlves10" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alinesors" /></a>
 <a href = "mailto:alves.aline@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+</p><br/>
 
 ### 💻 Linguagens:
 
