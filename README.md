@@ -1,11 +1,10 @@
 <h1 align="center">Olá  👋! Eu sou a Aline Alves</h1>
-<h3 align="center">Desenvolvedora 👩🏻‍💻</h3>
+<h3 align="center">Analista de TI👩🏻‍💻</h3>
 
 <p>
 
-- 🌱 Estudante de programação.
+- 🌱 Estudante
 
-- 🖥️ Todos meus projetos estão aqui. 
 <p><br/>
 
 ### ⭐️ Se conecte comigo:
