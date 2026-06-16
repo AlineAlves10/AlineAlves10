@@ -3,7 +3,8 @@
 
 <p>
 
-- 🌱 Estudante
+- 🌱 Sou Analsta de TI
+- 🌱 Software Engineer Jr
 
 <p><br/>
 
