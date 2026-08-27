@@ -2,8 +2,6 @@
 <h3 align="center">Analista de TI👩🏻‍💻</h3>
 
 <p>
-
-- 🌱 Sou Analsta de TI
 - 🌱 Software Engineer Jr
 
 <p><br/>
