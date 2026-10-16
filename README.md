@@ -19,7 +19,3 @@
 <div style="display: inline_block " >
  <img alt="html" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" />
  <img alt="html" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-
-
-![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAlves10&show_icons=true&theme=dracula)
-
