@@ -13,9 +13,3 @@
 <a href="https://github.com/AlineAlves10" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alinesors" /></a>
 <a href = "mailto:alves.aline@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p><br/>
-
-### 💻 Linguagens:
-
-<div style="display: inline_block " >
- <img alt="html" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" />
- <img alt="html" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
